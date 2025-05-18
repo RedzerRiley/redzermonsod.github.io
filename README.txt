@@ -1,30 +1,3 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Welcome to my personal portfolio website! This project is a reflection of my journey as a Computer Science student with a strong passion for Cybersecurity, Application Development and DevOps. It serves as a central hub where I showcase my projects, certifications, and experiences.
 
-
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+I’m currently studying Computer Science at Mapúa University. My exposure to computers began at a young age, inspired by my father, a computer engineer. Since then, I've shifted from Physics to Computer Science to pursue my passion for programming and cybersecurity.
